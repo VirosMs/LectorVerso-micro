@@ -3,7 +3,7 @@ package org.virosms.lectorversomicro.mapper;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;
-import org.virosms.lectorversomicro.dto.UserDTO;
+import org.virosms.lectorversomicro.entity.dto.UserDTO;
 import org.virosms.lectorversomicro.entity.User;
 
 @Mapper(componentModel = "spring")

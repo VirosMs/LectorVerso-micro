@@ -9,12 +9,13 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.validation.annotation.Validated;
-import org.virosms.lectorversomicro.dto.UserDTO;
 import org.virosms.lectorversomicro.entity.User;
+import org.virosms.lectorversomicro.entity.dto.UserDTO;
 import org.virosms.lectorversomicro.errors.LVException;
 import org.virosms.lectorversomicro.errors.LectorVersoExceptions;
 import org.virosms.lectorversomicro.mapper.UserMapper;
 import org.virosms.lectorversomicro.repository.UserRepository;
+import org.virosms.lectorversomicro.utils.Utils;
 
 import java.util.Objects;
 
@@ -85,7 +86,7 @@ public class UserService {
     /**
      * Get a user by name
      *
-     * @param name String
+     * @param name     String
      * @param password String
      * @return User
      */
@@ -98,6 +99,11 @@ public class UserService {
         if (name == null || password == null) {
             Logger.error("UserService.getUserByName - Error: User is null");
             throw LVException.of(LectorVersoExceptions.PARAMETER_REQUIRED).parameter(methodName);
+        }
+
+        if(Utils.isValidUsername(name)) {
+            Logger.error("UserService.getUserByName - Error: Invalid username");
+            throw LVException.of(LectorVersoExceptions.INVALID_USERNAME).parameter(methodName);
         }
 
         Logger.info("UserService.getUserByName - Entry param: {}", name);
@@ -138,7 +144,7 @@ public class UserService {
     /**
      * Get a user by email
      *
-     * @param email String
+     * @param email    String
      * @param password String
      * @return User
      */
@@ -183,8 +189,11 @@ public class UserService {
         }
 
         Logger.info("UserService.getUserByEmail - ***FIN+**");
+        var response = new ResponseEntity<>(userDTO, HttpStatus.OK);
+        Logger.info("UserService.getUserByEmail - Response Body: {} -- Response HttpCode: {}", response.getBody(),
+                response.getStatusCode());
 
-        return new ResponseEntity<>(userDTO, HttpStatus.OK);
+        return response;
     }
 
 
@@ -217,7 +226,6 @@ public class UserService {
             Logger.error("UserService.deleteUser - Error: {}", e.getMessage());
             throw LVException.of(LectorVersoExceptions.USER_NOT_DELETED).parameter(methodName);
         }
-
 
 
         if (userRepository.existsByEmail(email)) {

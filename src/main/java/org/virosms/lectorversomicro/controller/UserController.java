@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.virosms.lectorversomicro.dto.UserDTO;
+import org.virosms.lectorversomicro.entity.dto.UserDTO;
 import org.virosms.lectorversomicro.entity.User;
 import org.virosms.lectorversomicro.errors.LVException;
 import org.virosms.lectorversomicro.service.UserService;
