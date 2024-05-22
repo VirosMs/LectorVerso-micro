@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: Update project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/LambdaStreamHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/controller/UserController.java" afterDir="false" />
-    </list>
+    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: Creado LAMBDA?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +98,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
@@ -147,7 +144,7 @@
       <workItem from="1716154998791" duration="487000" />
       <workItem from="1716155513453" duration="3543000" />
       <workItem from="1716330078926" duration="3364000" />
-      <workItem from="1716406216790" duration="6210000" />
+      <workItem from="1716406216790" duration="6426000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -213,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716407329651</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: Creado LAMBDA?">
+      <option name="closed" value="true" />
+      <created>1716415284895</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716415284895</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +233,7 @@
     <MESSAGE value="chore: Create the endpoints for User" />
     <MESSAGE value="feat: Update README.md" />
     <MESSAGE value="feat: Update project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Update project" />
+    <MESSAGE value="feat: Creado LAMBDA?" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Creado LAMBDA?" />
   </component>
 </project>
