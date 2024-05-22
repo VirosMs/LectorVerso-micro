@@ -6,25 +6,25 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.virosms.lectorversomicro.entity.dto.UserDTO;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.virosms.lectorversomicro.entity.User;
+import org.virosms.lectorversomicro.entity.dto.UserDTO;
 import org.virosms.lectorversomicro.errors.LVException;
 import org.virosms.lectorversomicro.service.UserService;
 
 @RestController
 @RequestMapping("/lv/api/u")
+@EnableWebMvc
 public class UserController {
 
 
+    private static final Logger Logger = LogManager.getLogger(UserController.class);
     private final UserService userService;
 
     @Autowired
     public UserController(UserService userService) {
         this.userService = userService;
     }
-
-    private static final Logger Logger = LogManager.getLogger(UserController.class);
-
 
     @GetMapping("/user/n")
     public ResponseEntity<UserDTO> getUserByUserName(@RequestParam("name") String name, @RequestParam("password") String paswword) throws LVException {
@@ -49,7 +49,6 @@ public class UserController {
         Logger.info("UserController.deleteUser - Entry param: {}", email);
         return userService.deleteUser(email, password);
     }
-
 
 
 }

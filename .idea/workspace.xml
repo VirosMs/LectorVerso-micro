@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: Update README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7e09a61e-c9c1-44aa-ae82-76b6c3d7e9da.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7e09a61e-c9c1-44aa-ae82-76b6c3d7e9da.xml" afterDir="false" />
+    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: Update project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/LambdaStreamHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/entity/dto/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LVAppGlobalInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LVAppGlobalInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LectorVersoExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LectorVersoExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/dto/UserDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/mapper/UserMapperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/mapper/UserMapperImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/service/UserService$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/service/UserService$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/org/virosms/lectorversomicro/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/org/virosms/lectorversomicro/mapper/UserMapperImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,6 +35,29 @@
 }</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="2-feature-request-connect-lambda---api-gateway" />
+                    <option name="lastUsedInstant" value="1716413368" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1716413367" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -72,34 +85,34 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.LectorversoMicroApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Charl/IdeaProjects/confety-mail-sender-service-main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.LectorversoMicroApplication.executor": "Debug",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "2-feature-request-connect-lambda---api-gateway",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Charl/IdeaProjects/confety-mail-sender-service-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="LectorversoMicroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -134,7 +147,7 @@
       <workItem from="1716154998791" duration="487000" />
       <workItem from="1716155513453" duration="3543000" />
       <workItem from="1716330078926" duration="3364000" />
-      <workItem from="1716406216790" duration="1062000" />
+      <workItem from="1716406216790" duration="6210000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -192,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715803414863</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: Update project">
+      <option name="closed" value="true" />
+      <created>1716407329651</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716407329651</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +227,7 @@
     <MESSAGE value="feat: start create README.md" />
     <MESSAGE value="chore: Create the endpoints for User" />
     <MESSAGE value="feat: Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Update README.md" />
+    <MESSAGE value="feat: Update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Update project" />
   </component>
 </project>
