@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: Creado LAMBDA?" />
+    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: Creado LAMBDA?">
+      <change afterPath="$PROJECT_DIR$/.aws-sam/build.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/template.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/LectorversoMicroApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/LectorversoMicroApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/Chapters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/Chapters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/Favorite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/Favorite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/Work.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/entity/Work.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LV2024Exeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LV2024Exeption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVAppGlobalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVAppGlobalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVFieldError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVFieldError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LectorVersoExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LectorVersoExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LeverErrorType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LeverErrorType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/ChaptersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/ChaptersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/FavoriteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/FavoriteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/LVDomain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/LVDomain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/WorkRespository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/repository/WorkRespository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/org/virosms/lectorversomicro/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/org/virosms/lectorversomicro/mapper/UserMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/virosms/lectorversomicro/LectorversoMicroApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/virosms/lectorversomicro/LectorversoMicroApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/virosms/lectorversomicro/TestLectorversoMicroApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/virosms/lectorversomicro/TestLectorversoMicroApplication.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +90,17 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -82,13 +120,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven.lectorverso-micro [clean].executor": "Run",
+    "Maven.lectorverso-micro [compile].executor": "Run",
+    "Maven.lectorverso-micro [package].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.LectorversoMicroApplication.executor": "Debug",
+    "Spring Boot.LectorversoMicroApplication.executor": "Run",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "2-feature-request-connect-lambda---api-gateway",
     "kotlin-language-version-configured": "true",
@@ -100,8 +141,8 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -110,7 +151,102 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Charl\IdeaProjects\lectorverso-micro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.lectorverso-micro [package]">
+    <configuration name="lectorverso-micro [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="lectorverso-micro [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="lectorverso-micro [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="LectorversoMicroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="lectorverso-micro" />
@@ -119,6 +255,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.lectorverso-micro [package]" />
+        <item itemvalue="Maven.lectorverso-micro [clean]" />
+        <item itemvalue="Maven.lectorverso-micro [compile]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -144,7 +287,10 @@
       <workItem from="1716154998791" duration="487000" />
       <workItem from="1716155513453" duration="3543000" />
       <workItem from="1716330078926" duration="3364000" />
-      <workItem from="1716406216790" duration="6426000" />
+      <workItem from="1716406216790" duration="9450000" />
+      <workItem from="1716418988636" duration="1089000" />
+      <workItem from="1716481452808" duration="3483000" />
+      <workItem from="1716485006233" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -218,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716415284895</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: Creado LAMBDA?">
+      <option name="closed" value="true" />
+      <created>1716415428369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716415428369</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
