@@ -5,7 +5,7 @@ Globals:
   Api:
     EndpointConfiguration: REGIONAL
 Resources:
-  function:
+  JavaLambdaFunction:
     Type: AWS::Serverless::Function
     Properties:
       CodeUri: .
@@ -21,16 +21,5 @@ Resources:
             Path: /{proxy+}
             Method: ANY
       # Function's execution role
-      Policies:
-        - AWSLambdaBasicExecutionRole
-        - AWSLambda_ReadOnlyAccess
-        - AWSXrayWriteOnlyAccess
-        - AWSLambdaVPCAccessExecutionRole
       Tracing: Active
 
-Outputs:
-  lectorversoMicro:
-    Description: URL for application
-    Value: !Sub 'https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/dev/ping'
-    Export:
-      Name: lectorversoMicro
