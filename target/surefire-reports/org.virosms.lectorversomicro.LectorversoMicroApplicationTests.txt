@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.virosms.lectorversomicro.LectorversoMicroApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.907 s -- in org.virosms.lectorversomicro.LectorversoMicroApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.917 s -- in org.virosms.lectorversomicro.LectorversoMicroApplicationTests

@@ -13,7 +13,7 @@ Resources:
       Runtime: java21
       Description: Java function
       MemorySize: 512
-      Timeout: 30
+      Timeout: 60
       Events:
         ProxyResource:
           Type: Api
