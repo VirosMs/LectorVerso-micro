@@ -2,11 +2,15 @@ package org.virosms.lectorversomicro.errors;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.Getter;
+import lombok.Setter;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;
 
 import java.io.Serial;
 
+@Setter
+@Getter
 @Validated
 @JsonIgnoreProperties(
         {"mostSpecificCause", "suppressed", "stackTrace", "rootCause"}
@@ -66,7 +70,7 @@ public class LV2024Exeption extends Exception{
                 "}";
     }
     protected String toIndentedString(Object o) {
-        return o == null ? "null" : o.toString().replace("\n", "\n");
+        return o == null ? "null" : o.toString();
     }
 
     public boolean equals(Object o) {
@@ -90,43 +94,4 @@ public class LV2024Exeption extends Exception{
         return result;
     }
 
-    public String getType() {
-        return type;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public String getDetail() {
-        return detail;
-    }
-
-    public void setDetail(String detail) {
-        this.detail = detail;
-    }
-
-    public Integer getStatus() {
-        return status;
-    }
-
-    public void setStatus(Integer status) {
-        this.status = status;
-    }
-
-    public String getInstance() {
-        return instance;
-    }
-
-    public void setInstance(String instance) {
-        this.instance = instance;
-    }
 }

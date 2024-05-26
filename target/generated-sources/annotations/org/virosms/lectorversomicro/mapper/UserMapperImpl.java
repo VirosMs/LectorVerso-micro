@@ -7,7 +7,7 @@ import org.virosms.lectorversomicro.entity.dto.UserDTO;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2024-05-23T22:46:12+0200",
+    date = "2024-05-25T18:58:01+0200",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 21.0.3 (Oracle Corporation)"
 )
 @Component
