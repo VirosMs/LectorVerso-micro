@@ -1,16 +1,14 @@
 package org.virosms.lectorversomicro.errors;
 
 import lombok.Data;
+import lombok.Getter;
 
 @Data
 public class LVAppGlobalInfo {
+    @Getter
     private static String aplicationName = "lectorversomicro";
 
     private LVAppGlobalInfo() {
-    }
-
-    public static String getAplicationName() {
-        return aplicationName;
     }
 
 

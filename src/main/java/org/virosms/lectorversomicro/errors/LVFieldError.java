@@ -3,6 +3,7 @@ package org.virosms.lectorversomicro.errors;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
+import lombok.Setter;
 import org.springframework.validation.annotation.Validated;
 
 import java.util.Arrays;
@@ -10,21 +11,25 @@ import java.util.Arrays;
 @Data
 @Validated
 public class LVFieldError {
+    @Setter
     @JsonProperty(
             value = "detail",
             index = 1
     )
     private String detail = null;
+    @Setter
     @JsonProperty(
             value = "type",
             index = 2
     )
     private String type = null;
+    @Setter
     @JsonProperty(
             value = "field",
             index = 3
     )
     private String field;
+    @Setter
     @JsonProperty(
             value = "objectName",
             index = 4
@@ -79,17 +84,9 @@ public class LVFieldError {
         return this;
     }
 
-    public void setField(String field) {
-        this.field = field;
-    }
-
     public LVFieldError field(String field) {
         this.field = field;
         return this;
-    }
-
-    public void setObjectName(String objectName) {
-        this.objectName = objectName;
     }
 
     /**
@@ -114,17 +111,9 @@ public class LVFieldError {
         return this;
     }
 
-    public void setDetail(String detail) {
-        this.detail = detail;
-    }
-
     public LVFieldError detail(String detail) {
         this.detail = detail;
         return this;
-    }
-
-    public void setType(String type) {
-        this.type = type;
     }
 
     /**
