@@ -1,0 +1,604 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"964d19bd-9b89-4865-bee6-dfd4f0cd2a0d\" name=\"Changes\" comment=\"feat: &quot;funciona&quot;\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"1-feature-request-get-manga\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;VirosMs&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n    <option name=\"recentBranches\">\r\n      <RecentBranches>\r\n        <option name=\"branchesForRepo\">\r\n          <list>\r\n            <RecentBranchesForRepo>\r\n              <option name=\"branches\">\r\n                <list>\r\n                  <RecentBranch>\r\n                    <option name=\"branchName\" value=\"2-feature-request-connect-lambda---api-gateway\" />\r\n                    <option name=\"lastUsedInstant\" value=\"1716494600\" />\r\n                  </RecentBranch>\r\n                  <RecentBranch>\r\n                    <option name=\"branchName\" value=\"main\" />\r\n                    <option name=\"lastUsedInstant\" value=\"1716413367\" />\r\n                  </RecentBranch>\r\n                </list>\r\n              </option>\r\n              <option name=\"repositoryRootUrl\" value=\"file://$PROJECT_DIR$\" />\r\n            </RecentBranchesForRepo>\r\n          </list>\r\n        </option>\r\n      </RecentBranches>\r\n    </option>\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/VirosMs/LectorVerso-micro.git&quot;,\r\n    &quot;accountId&quot;: &quot;a8d16031-a457-48a3-b267-d6da4d6c2607&quot;\r\n  }\r\n}</component>\r\n  <component name=\"KubernetesApiPersistence\">{}</component>\r\n  <component name=\"KubernetesApiProvider\">{\r\n  &quot;isMigrated&quot;: true\r\n}</component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"importingSettings\">\r\n      <MavenImportingSettings>\r\n        <option name=\"jdkForImporter\" value=\"#JAVA_HOME\" />\r\n        <option name=\"workspaceImportForciblyTurnedOn\" value=\"true\" />\r\n      </MavenImportingSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"MavenRunner\">\r\n    <option name=\"jreName\" value=\"#JAVA_HOME\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"QODANA_PROBLEMS_VIEW_TAB\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;&quot;,\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2gQHyxKM0xuCbHbTkSqpCoeTDpr\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"Maven.lectorverso-micro [clean].executor\": \"Run\",\r\n    \"Maven.lectorverso-micro [compile].executor\": \"Run\",\r\n    \"Maven.lectorverso-micro [install].executor\": \"Run\",\r\n    \"Maven.lectorverso-micro [package].executor\": \"Run\",\r\n    \"RequestMappingsPanelOrder0\": \"0\",\r\n    \"RequestMappingsPanelOrder1\": \"1\",\r\n    \"RequestMappingsPanelWidth0\": \"75\",\r\n    \"RequestMappingsPanelWidth1\": \"75\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"Spring Boot.LectorversoMicroApplication.executor\": \"Run\",\r\n    \"dart.analysis.tool.window.visible\": \"false\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Charl/IdeaProjects/confety-mail-sender-service-main\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"project.structure.last.edited\": \"Project\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"settings.editor.selected.configurable\": \"reference.settings.project.maven.runner\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"DatabaseDriversLRU\": [\r\n      \"postgresql\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"QodanaCloudProjectLink\">\r\n    <option name=\"lastReportId\" value=\"LDdED\" />\r\n    <option name=\"linkedProjectId\" value=\"3KVwy\" />\r\n    <option name=\"linkedProjectName\" value=\"LectorVerso-micro\" />\r\n    <option name=\"organizationId\" value=\"pV9RY\" />\r\n    <option name=\"userId\" value=\"AlQxW\" />\r\n  </component>\r\n  <component name=\"QodanaHighlightedReportService\">\r\n    <option name=\"cloudReportPersistedInfo\">\r\n      <CloudReportPersistedInfo>\r\n        <option name=\"projectId\" value=\"3KVwy\" />\r\n        <option name=\"reportId\" value=\"LDdED\" />\r\n      </CloudReportPersistedInfo>\r\n    </option>\r\n  </component>\r\n  <component name=\"QodanaIsSelectedPersistenceService\">\r\n    <option name=\"selectedOrLoading\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Charl\\IdeaProjects\\lectorverso-micro\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Spring Boot.LectorversoMicroApplication\">\r\n    <configuration name=\"lectorverso-micro [clean]\" type=\"MavenRunConfiguration\" factoryName=\"Maven\" temporary=\"true\">\r\n      <MavenSettings>\r\n        <option name=\"myGeneralSettings\" />\r\n        <option name=\"myRunnerSettings\" />\r\n        <option name=\"myRunnerParameters\">\r\n          <MavenRunnerParameters>\r\n            <option name=\"cmdOptions\" />\r\n            <option name=\"profiles\">\r\n              <set />\r\n            </option>\r\n            <option name=\"goals\">\r\n              <list>\r\n                <option value=\"clean\" />\r\n              </list>\r\n            </option>\r\n            <option name=\"multimoduleDir\" />\r\n            <option name=\"pomFileName\" value=\"pom.xml\" />\r\n            <option name=\"profilesMap\">\r\n              <map />\r\n            </option>\r\n            <option name=\"projectsCmdOptionValues\">\r\n              <list />\r\n            </option>\r\n            <option name=\"resolveToWorkspace\" value=\"false\" />\r\n            <option name=\"workingDirPath\" value=\"$PROJECT_DIR$\" />\r\n          </MavenRunnerParameters>\r\n        </option>\r\n      </MavenSettings>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"lectorverso-micro [compile]\" type=\"MavenRunConfiguration\" factoryName=\"Maven\" temporary=\"true\">\r\n      <MavenSettings>\r\n        <option name=\"myGeneralSettings\" />\r\n        <option name=\"myRunnerSettings\" />\r\n        <option name=\"myRunnerParameters\">\r\n          <MavenRunnerParameters>\r\n            <option name=\"cmdOptions\" />\r\n            <option name=\"profiles\">\r\n              <set />\r\n            </option>\r\n            <option name=\"goals\">\r\n              <list>\r\n                <option value=\"compile\" />\r\n              </list>\r\n            </option>\r\n            <option name=\"multimoduleDir\" />\r\n            <option name=\"pomFileName\" value=\"pom.xml\" />\r\n            <option name=\"profilesMap\">\r\n              <map />\r\n            </option>\r\n            <option name=\"projectsCmdOptionValues\">\r\n              <list />\r\n            </option>\r\n            <option name=\"resolveToWorkspace\" value=\"false\" />\r\n            <option name=\"workingDirPath\" value=\"$PROJECT_DIR$\" />\r\n          </MavenRunnerParameters>\r\n        </option>\r\n      </MavenSettings>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"lectorverso-micro [install]\" type=\"MavenRunConfiguration\" factoryName=\"Maven\" temporary=\"true\">\r\n      <MavenSettings>\r\n        <option name=\"myGeneralSettings\" />\r\n        <option name=\"myRunnerSettings\" />\r\n        <option name=\"myRunnerParameters\">\r\n          <MavenRunnerParameters>\r\n            <option name=\"cmdOptions\" />\r\n            <option name=\"profiles\">\r\n              <set />\r\n            </option>\r\n            <option name=\"goals\">\r\n              <list>\r\n                <option value=\"install\" />\r\n              </list>\r\n            </option>\r\n            <option name=\"multimoduleDir\" />\r\n            <option name=\"pomFileName\" value=\"pom.xml\" />\r\n            <option name=\"profilesMap\">\r\n              <map />\r\n            </option>\r\n            <option name=\"projectsCmdOptionValues\">\r\n              <list />\r\n            </option>\r\n            <option name=\"resolveToWorkspace\" value=\"false\" />\r\n            <option name=\"workingDirPath\" value=\"$PROJECT_DIR$\" />\r\n          </MavenRunnerParameters>\r\n        </option>\r\n      </MavenSettings>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"lectorverso-micro [package]\" type=\"MavenRunConfiguration\" factoryName=\"Maven\" temporary=\"true\">\r\n      <MavenSettings>\r\n        <option name=\"myGeneralSettings\" />\r\n        <option name=\"myRunnerSettings\" />\r\n        <option name=\"myRunnerParameters\">\r\n          <MavenRunnerParameters>\r\n            <option name=\"cmdOptions\" />\r\n            <option name=\"profiles\">\r\n              <set />\r\n            </option>\r\n            <option name=\"goals\">\r\n              <list>\r\n                <option value=\"package\" />\r\n              </list>\r\n            </option>\r\n            <option name=\"multimoduleDir\" />\r\n            <option name=\"pomFileName\" value=\"pom.xml\" />\r\n            <option name=\"profilesMap\">\r\n              <map />\r\n            </option>\r\n            <option name=\"projectsCmdOptionValues\">\r\n              <list />\r\n            </option>\r\n            <option name=\"resolveToWorkspace\" value=\"false\" />\r\n            <option name=\"workingDirPath\" value=\"$PROJECT_DIR$\" />\r\n          </MavenRunnerParameters>\r\n        </option>\r\n      </MavenSettings>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"LectorversoMicroApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\r\n      <option name=\"FRAME_DEACTIVATION_UPDATE_POLICY\" value=\"UpdateClassesAndResources\" />\r\n      <module name=\"lectorverso-micro\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"org.virosms.lectorversomicro.LectorversoMicroApplication\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Maven.lectorverso-micro [install]\" />\r\n        <item itemvalue=\"Maven.lectorverso-micro [clean]\" />\r\n        <item itemvalue=\"Maven.lectorverso-micro [package]\" />\r\n        <item itemvalue=\"Maven.lectorverso-micro [compile]\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79\" />\r\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"964d19bd-9b89-4865-bee6-dfd4f0cd2a0d\" name=\"Changes\" comment=\"\" />\r\n      <created>1715623141019</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1715623141019</updated>\r\n      <workItem from=\"1715623145664\" duration=\"2555000\" />\r\n      <workItem from=\"1715701949225\" duration=\"14186000\" />\r\n      <workItem from=\"1715723847335\" duration=\"782000\" />\r\n      <workItem from=\"1715791743708\" duration=\"16446000\" />\r\n      <workItem from=\"1715974439249\" duration=\"5283000\" />\r\n      <workItem from=\"1716154998791\" duration=\"487000\" />\r\n      <workItem from=\"1716155513453\" duration=\"3543000\" />\r\n      <workItem from=\"1716330078926\" duration=\"3364000\" />\r\n      <workItem from=\"1716406216790\" duration=\"9450000\" />\r\n      <workItem from=\"1716418988636\" duration=\"1089000\" />\r\n      <workItem from=\"1716481452808\" duration=\"3483000\" />\r\n      <workItem from=\"1716485006233\" duration=\"897000\" />\r\n      <workItem from=\"1716488225161\" duration=\"602000\" />\r\n      <workItem from=\"1716717543576\" duration=\"896000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715722340593</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715722340593</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Created exceptions personalized\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715722386999</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715722386999</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Create struct\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715722425224</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715722425224</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"feat: start create README.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715724643254</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715724643254</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"chore: Create the endpoints for User\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715799366201</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715799366201</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"feat: Update README.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715802650907</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715802650907</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"feat: Update README.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715803414863</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715803414863</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"feat: Update project\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716407329651</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716407329651</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"feat: Creado LAMBDA?\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716415284895</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716415284895</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"feat: Creado LAMBDA?\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716415428369</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716415428369</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"feat: Prueba 50\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716485853983</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716485853983</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"feat: Prueba 50\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716494615390</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716494615390</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"feat: Prueba 60\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716494975395</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716494975395</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"14\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"Created exceptions personalized\" />\r\n    <MESSAGE value=\"Create struct\" />\r\n    <MESSAGE value=\"feat: start create README.md\" />\r\n    <MESSAGE value=\"chore: Create the endpoints for User\" />\r\n    <MESSAGE value=\"feat: Update README.md\" />\r\n    <MESSAGE value=\"feat: Update project\" />\r\n    <MESSAGE value=\"feat: Creado LAMBDA?\" />\r\n    <MESSAGE value=\"feat: Prueba 50\" />\r\n    <MESSAGE value=\"feat: Prueba 60\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feat: Prueba 60\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,17 +4,29 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="feat: &quot;funciona&quot;" />
++    <list default="true" id="964d19bd-9b89-4865-bee6-dfd4f0cd2a0d" name="Changes" comment="fixed: field 'field' may have Lombok @Setter">
++      <change afterPath="$PROJECT_DIR$/src/test/java/org/virosms/lectorversomicro/service/UserServiceTest.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/test/java/org/virosms/lectorversomicro/utils/UtilsTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LVException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LVException.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LV2024Exeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LV2024Exeption.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVFieldError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/virosms/lectorversomicro/errors/LVFieldError.class" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="CoverageOptionsProvider">
++    <option name="myAddOrReplace" value="0" />
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="Interface" />
+         <option value="Class" />
++        <option value="JUnit5 Test Class" />
+       </list>
+     </option>
+   </component>
+@@ -95,43 +107,56 @@
+     <option name="showLibraryContents" value="true" />
+     <option name="showMembers" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "Maven.lectorverso-micro [clean].executor": "Run",
+-    "Maven.lectorverso-micro [compile].executor": "Run",
+-    "Maven.lectorverso-micro [install].executor": "Run",
+-    "Maven.lectorverso-micro [package].executor": "Run",
+-    "RequestMappingsPanelOrder0": "0",
+-    "RequestMappingsPanelOrder1": "1",
+-    "RequestMappingsPanelWidth0": "75",
+-    "RequestMappingsPanelWidth1": "75",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "Spring Boot.LectorversoMicroApplication.executor": "Run",
+-    "dart.analysis.tool.window.visible": "false",
+-    "git-widget-placeholder": "main",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/Charl/IdeaProjects/confety-mail-sender-service-main",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "project.structure.last.edited": "Project",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2",
+-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+-    "vue.rearranger.settings.migration": "true"
+-  },
+-  "keyToStringList": {
+-    "DatabaseDriversLRU": [
+-      "postgresql"
+-    ]
+-  }
+-}]]></component>
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;JUnit.UserServiceTest.createUser_ReturnsCreated_WhenUserDoesNotExist.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Coverage&quot;,
++    &quot;JUnit.UserServiceTest.testCreateUserSuccess.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.UserServiceTest.testCreateUserThrowsExceptionWhenSaveFails.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.UserServiceTest.testCreateUserThrowsParameterRequiredException.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.UserServiceTest.testCreateUserThrowsUserAlreadyExistsException.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.UtilsTest.executor&quot;: &quot;Coverage&quot;,
++    &quot;Maven.lectorverso-micro [clean].executor&quot;: &quot;Run&quot;,
++    &quot;Maven.lectorverso-micro [compile].executor&quot;: &quot;Run&quot;,
++    &quot;Maven.lectorverso-micro [install].executor&quot;: &quot;Run&quot;,
++    &quot;Maven.lectorverso-micro [package].executor&quot;: &quot;Run&quot;,
++    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
++    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
++    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
++    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;Spring Boot.LectorversoMicroApplication.executor&quot;: &quot;Run&quot;,
++    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
++    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
++    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Charl/IdeaProjects/confety-mail-sender-service-main&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  },
++  &quot;keyToStringList&quot;: {
++    &quot;DatabaseDriversLRU&quot;: [
++      &quot;postgresql&quot;
++    ]
++  }
++}</component>
++  <component name="QodanaCIConfigService">
++    <option name="ciType" value="GITHUB" />
++    <option name="path" value="$PROJECT_DIR$/.github/workflows/code_quality.yml" />
++  </component>
+   <component name="QodanaCloudProjectLink">
+-    <option name="lastReportId" value="LDdED" />
++    <option name="lastReportId" value="0mwk5" />
+     <option name="linkedProjectId" value="3KVwy" />
+     <option name="linkedProjectName" value="LectorVerso-micro" />
+     <option name="organizationId" value="pV9RY" />
+@@ -141,7 +166,7 @@
+     <option name="cloudReportPersistedInfo">
+       <CloudReportPersistedInfo>
+         <option name="projectId" value="3KVwy" />
+-        <option name="reportId" value="LDdED" />
++        <option name="reportId" value="V0X69" />
+       </CloudReportPersistedInfo>
+     </option>
+   </component>
+@@ -151,128 +176,94 @@
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Charl\IdeaProjects\lectorverso-micro" />
++    </key>
++    <key name="CreateTestDialog.Recents.Supers">
++      <recent name="" />
++    </key>
++    <key name="CreateTestDialog.RecentsKey">
++      <recent name="org.virosms.lectorversomicro.service" />
++      <recent name="org.virosms.lectorversomicro.utils" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Spring Boot.LectorversoMicroApplication">
+-    <configuration name="lectorverso-micro [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+-      <MavenSettings>
+-        <option name="myGeneralSettings" />
+-        <option name="myRunnerSettings" />
+-        <option name="myRunnerParameters">
+-          <MavenRunnerParameters>
+-            <option name="cmdOptions" />
+-            <option name="profiles">
+-              <set />
+-            </option>
+-            <option name="goals">
+-              <list>
+-                <option value="clean" />
+-              </list>
+-            </option>
+-            <option name="multimoduleDir" />
+-            <option name="pomFileName" value="pom.xml" />
+-            <option name="profilesMap">
+-              <map />
+-            </option>
+-            <option name="projectsCmdOptionValues">
+-              <list />
+-            </option>
+-            <option name="resolveToWorkspace" value="false" />
+-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+-          </MavenRunnerParameters>
+-        </option>
+-      </MavenSettings>
+-      <method v="2" />
++  <component name="RunManager" selected="JUnit.UserServiceTest">
++    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="lectorverso-micro" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.virosms.lectorversomicro.service.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="org.virosms.lectorversomicro.service" />
++      <option name="MAIN_CLASS_NAME" value="org.virosms.lectorversomicro.service.UserServiceTest" />
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
+     </configuration>
+-    <configuration name="lectorverso-micro [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+-      <MavenSettings>
+-        <option name="myGeneralSettings" />
+-        <option name="myRunnerSettings" />
+-        <option name="myRunnerParameters">
+-          <MavenRunnerParameters>
+-            <option name="cmdOptions" />
+-            <option name="profiles">
+-              <set />
+-            </option>
+-            <option name="goals">
+-              <list>
+-                <option value="compile" />
+-              </list>
+-            </option>
+-            <option name="multimoduleDir" />
+-            <option name="pomFileName" value="pom.xml" />
+-            <option name="profilesMap">
+-              <map />
+-            </option>
+-            <option name="projectsCmdOptionValues">
+-              <list />
+-            </option>
+-            <option name="resolveToWorkspace" value="false" />
+-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+-          </MavenRunnerParameters>
+-        </option>
+-      </MavenSettings>
+-      <method v="2" />
++    <configuration name="UserServiceTest.testCreateUserSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="lectorverso-micro" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.virosms.lectorversomicro.service.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="org.virosms.lectorversomicro.service" />
++      <option name="MAIN_CLASS_NAME" value="org.virosms.lectorversomicro.service.UserServiceTest" />
++      <option name="METHOD_NAME" value="testCreateUserSuccess" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
+     </configuration>
+-    <configuration name="lectorverso-micro [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+-      <MavenSettings>
+-        <option name="myGeneralSettings" />
+-        <option name="myRunnerSettings" />
+-        <option name="myRunnerParameters">
+-          <MavenRunnerParameters>
+-            <option name="cmdOptions" />
+-            <option name="profiles">
+-              <set />
+-            </option>
+-            <option name="goals">
+-              <list>
+-                <option value="install" />
+-              </list>
+-            </option>
+-            <option name="multimoduleDir" />
+-            <option name="pomFileName" value="pom.xml" />
+-            <option name="profilesMap">
+-              <map />
+-            </option>
+-            <option name="projectsCmdOptionValues">
+-              <list />
+-            </option>
+-            <option name="resolveToWorkspace" value="false" />
+-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+-          </MavenRunnerParameters>
+-        </option>
+-      </MavenSettings>
+-      <method v="2" />
++    <configuration name="UserServiceTest.testCreateUserThrowsExceptionWhenSaveFails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="lectorverso-micro" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.virosms.lectorversomicro.service.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="org.virosms.lectorversomicro.service" />
++      <option name="MAIN_CLASS_NAME" value="org.virosms.lectorversomicro.service.UserServiceTest" />
++      <option name="METHOD_NAME" value="testCreateUserThrowsExceptionWhenSaveFails" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
+     </configuration>
+-    <configuration name="lectorverso-micro [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+-      <MavenSettings>
+-        <option name="myGeneralSettings" />
+-        <option name="myRunnerSettings" />
+-        <option name="myRunnerParameters">
+-          <MavenRunnerParameters>
+-            <option name="cmdOptions" />
+-            <option name="profiles">
+-              <set />
+-            </option>
+-            <option name="goals">
+-              <list>
+-                <option value="package" />
+-              </list>
+-            </option>
+-            <option name="multimoduleDir" />
+-            <option name="pomFileName" value="pom.xml" />
+-            <option name="profilesMap">
+-              <map />
+-            </option>
+-            <option name="projectsCmdOptionValues">
+-              <list />
+-            </option>
+-            <option name="resolveToWorkspace" value="false" />
+-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+-          </MavenRunnerParameters>
+-        </option>
+-      </MavenSettings>
+-      <method v="2" />
++    <configuration name="UserServiceTest.testCreateUserThrowsParameterRequiredException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="lectorverso-micro" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.virosms.lectorversomicro.service.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="org.virosms.lectorversomicro.service" />
++      <option name="MAIN_CLASS_NAME" value="org.virosms.lectorversomicro.service.UserServiceTest" />
++      <option name="METHOD_NAME" value="testCreateUserThrowsParameterRequiredException" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="UserServiceTest.testCreateUserThrowsUserAlreadyExistsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="lectorverso-micro" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.virosms.lectorversomicro.service.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="org.virosms.lectorversomicro.service" />
++      <option name="MAIN_CLASS_NAME" value="org.virosms.lectorversomicro.service.UserServiceTest" />
++      <option name="METHOD_NAME" value="testCreateUserThrowsUserAlreadyExistsException" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
+     </configuration>
+     <configuration name="LectorversoMicroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+@@ -284,10 +275,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Maven.lectorverso-micro [install]" />
+-        <item itemvalue="Maven.lectorverso-micro [clean]" />
+-        <item itemvalue="Maven.lectorverso-micro [package]" />
+-        <item itemvalue="Maven.lectorverso-micro [compile]" />
++        <item itemvalue="JUnit.UserServiceTest" />
++        <item itemvalue="JUnit.UserServiceTest.testCreateUserThrowsExceptionWhenSaveFails" />
++        <item itemvalue="JUnit.UserServiceTest.testCreateUserThrowsUserAlreadyExistsException" />
++        <item itemvalue="JUnit.UserServiceTest.testCreateUserThrowsParameterRequiredException" />
++        <item itemvalue="JUnit.UserServiceTest.testCreateUserSuccess" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -321,6 +313,7 @@
+       <workItem from="1716485006233" duration="897000" />
+       <workItem from="1716488225161" duration="602000" />
+       <workItem from="1716717543576" duration="896000" />
++      <workItem from="1717097778433" duration="1054000" />
+     </task>
+     <task id="LOCAL-00001" summary="Initial commit">
+       <option name="closed" value="true" />
+@@ -426,7 +419,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1716494975395</updated>
+     </task>
+-    <option name="localTasksCounter" value="14" />
++    <task id="LOCAL-00014" summary="fixed: field 'field' may have Lombok @Setter">
++      <option name="closed" value="true" />
++      <created>1716719422292</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1716719422292</updated>
++    </task>
++    <option name="localTasksCounter" value="15" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -444,6 +445,29 @@
+     <MESSAGE value="feat: Creado LAMBDA?" />
+     <MESSAGE value="feat: Prueba 50" />
+     <MESSAGE value="feat: Prueba 60" />
+-    <option name="LAST_COMMIT_MESSAGE" value="feat: Prueba 60" />
++    <MESSAGE value="fixed: field 'field' may have Lombok @Setter" />
++    <option name="LAST_COMMIT_MESSAGE" value="fixed: field 'field' may have Lombok @Setter" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/main/java/org/virosms/lectorversomicro/errors/LVException.java</url>
++          <line>143</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
++  <component name="com.intellij.coverage.CoverageDataManagerImpl">
++    <SUITE FILE_PATH="coverage/lectorverso_micro$UtilsTest.ic" NAME="UtilsTest Coverage Results" MODIFIED="1716721148200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
++      <FILTER>org.virosms.lectorversomicro.utils.*</FILTER>
++    </SUITE>
++    <SUITE FILE_PATH="coverage/lectorverso_micro$UserServiceTest_createUser_ReturnsCreated_WhenUserDoesNotExist.ic" NAME="UserServiceTest.createUser_ReturnsCreated_WhenUserDoesNotExist Coverage Results" MODIFIED="1716721625252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
++      <FILTER>org.virosms.lectorversomicro.service.*</FILTER>
++    </SUITE>
++    <SUITE FILE_PATH="coverage/lectorverso_micro$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1716723294162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
++      <FILTER>org.virosms.lectorversomicro.service.*</FILTER>
++    </SUITE>
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/test/java/org/virosms/lectorversomicro/service/UserServiceTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/org/virosms/lectorversomicro/service/UserServiceTest.java b/src/test/java/org/virosms/lectorversomicro/service/UserServiceTest.java
+new file mode 100644
+--- /dev/null	
++++ b/src/test/java/org/virosms/lectorversomicro/service/UserServiceTest.java	
+@@ -0,0 +1,91 @@
++package org.virosms.lectorversomicro.service;
++
++import static org.junit.jupiter.api.Assertions.*;
++import static org.mockito.Mockito.*;
++
++import org.junit.jupiter.api.BeforeEach;
++import org.junit.jupiter.api.Test;
++import org.junit.jupiter.api.extension.ExtendWith;
++import org.mockito.InjectMocks;
++import org.mockito.Mock;
++import org.mockito.junit.jupiter.MockitoExtension;
++import org.springframework.http.HttpStatus;
++import org.springframework.http.ResponseEntity;
++import org.virosms.lectorversomicro.entity.User;
++import org.virosms.lectorversomicro.errors.LVException;
++import org.virosms.lectorversomicro.errors.LectorVersoExceptions;
++import org.virosms.lectorversomicro.errors.LeverErrorType;
++import org.virosms.lectorversomicro.repository.UserRepository;
++
++@ExtendWith(MockitoExtension.class)
++public class UserServiceTest {
++
++    @Mock
++    private UserRepository userRepository;
++
++    @InjectMocks
++    private UserService userService;
++
++    private User validUser;
++
++    @BeforeEach
++    void setUp() {
++        validUser = new User();
++        validUser.setId(1L);
++        validUser.setName("John Doe");
++        validUser.setEmail("john.doe@example.com");
++        validUser.setPassword("password123");
++    }
++
++    @Test
++    void testCreateUserSuccess() throws LVException {
++        when(userRepository.existsByName(validUser.getName())).thenReturn(false);
++        when(userRepository.existsByEmail(validUser.getEmail())).thenReturn(false);
++
++        ResponseEntity<?> response = userService.createUser(validUser);
++
++        assertEquals(HttpStatus.CREATED, response.getStatusCode());
++        verify(userRepository).save(validUser);
++    }
++
++    @Test
++    void testCreateUserThrowsParameterRequiredException() {
++        User invalidUser = new User();
++
++        LVException exception = assertThrows(LVException.class, () -> userService.createUser(invalidUser));
++
++        LeverErrorType expectedErrorType = LectorVersoExceptions.PARAMETER_REQUIRED;
++
++        assertEquals(expectedErrorType.getDetail(), exception.getDetail());
++        assertEquals(expectedErrorType.getStatus(), exception.getStatus());
++        assertEquals(expectedErrorType.getType(), exception.getType());
++    }
++
++    @Test
++    void testCreateUserThrowsUserAlreadyExistsException() {
++        when(userRepository.existsByName(validUser.getName())).thenReturn(true);
++
++        LVException exception = assertThrows(LVException.class, () -> userService.createUser(validUser));
++
++        LeverErrorType expectedErrorType = LectorVersoExceptions.USER_ALREADY_EXISTS;
++
++        assertEquals(expectedErrorType.getDetail(), exception.getDetail());
++        assertEquals(expectedErrorType.getStatus(), exception.getStatus());
++        assertEquals(expectedErrorType.getType(), exception.getType());
++    }
++
++    @Test
++    void testCreateUserThrowsExceptionWhenSaveFails() {
++        when(userRepository.existsByName(validUser.getName())).thenReturn(false);
++        when(userRepository.existsByEmail(validUser.getEmail())).thenReturn(false);
++        doThrow(new RuntimeException("Save failed")).when(userRepository).save(validUser);
++
++        LVException exception = assertThrows(LVException.class, () -> userService.createUser(validUser));
++
++        LeverErrorType expectedErrorType = LectorVersoExceptions.USER_NOT_CREATED;
++
++        assertEquals(expectedErrorType.getDetail(), exception.getDetail());
++        assertEquals(expectedErrorType.getStatus(), exception.getStatus());
++        assertEquals(expectedErrorType.getType(), exception.getType());
++    }
++}
+Index: src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.virosms.lectorversomicro.errors;\r\n\r\nimport com.fasterxml.jackson.annotation.JsonIgnoreProperties;\r\nimport com.fasterxml.jackson.annotation.JsonProperty;\r\nimport lombok.Getter;\r\nimport lombok.Setter;\r\nimport org.springframework.http.HttpStatus;\r\nimport org.springframework.validation.annotation.Validated;\r\n\r\nimport java.io.Serial;\r\n\r\n@Setter\r\n@Getter\r\n@Validated\r\n@JsonIgnoreProperties(\r\n        {\"mostSpecificCause\", \"suppressed\", \"stackTrace\", \"rootCause\"}\r\n)\r\npublic class LV2024Exeption extends Exception{\r\n    @Serial\r\n    private static final long serialVersionUID = 10001L;\r\n    @JsonProperty(\"type\")\r\n    private String type = null;\r\n    @JsonProperty(\"title\")\r\n    private String title = null;\r\n    @JsonProperty(\"detail\")\r\n    private String detail = null;\r\n    @JsonProperty(\"status\")\r\n    private Integer status = null;\r\n    @JsonProperty(\"instance\")\r\n    private String instance = null;\r\n\r\n\r\n    public LV2024Exeption() {\r\n    }\r\n\r\n    public LV2024Exeption(Throwable cause) {\r\n        super(cause);\r\n    }\r\n\r\n    public LV2024Exeption(String message) {\r\n        super(message);\r\n    }\r\n\r\n    LV2024Exeption title(String title) {\r\n        this.title = title;\r\n        return this;\r\n    }\r\n\r\n    LV2024Exeption detail(String detail) {\r\n        this.detail = detail;\r\n        return this;\r\n    }\r\n\r\n    LV2024Exeption status(Integer status) {\r\n        this.status = status;\r\n        return this;\r\n    }\r\n\r\n    LV2024Exeption status(HttpStatus status) {\r\n        return this.status(status.value());\r\n    }\r\n\r\n    public String toString() {\r\n        return \"class LVExeption {\\n\" +\r\n                \"    type: \" + this.toIndentedString(this.type) + \"\\n\" +\r\n                \"    title: \" + this.toIndentedString(this.title) + \"\\n\" +\r\n                \"    detail: \" + this.toIndentedString(this.detail) + \"\\n\" +\r\n                \"    status: \" + this.toIndentedString(this.status) + \"\\n\" +\r\n                \"    instance: \" + this.toIndentedString(this.instance) + \"\\n\" +\r\n                \"}\";\r\n    }\r\n    protected String toIndentedString(Object o) {\r\n        return o == null ? \"null\" : o.toString();\r\n    }\r\n\r\n    public boolean equals(Object o) {\r\n        if (this == o) {\r\n            return true;\r\n        } else if (o != null && this.getClass() == o.getClass()) {\r\n            LV2024Exeption lV2024Exeption = (LV2024Exeption)o;\r\n            return super.equals(o) && this.type.equals(lV2024Exeption.type) && this.title.equals(lV2024Exeption.title) && this.detail.equals(lV2024Exeption.detail) && this.status.equals(lV2024Exeption.status) && this.instance.equals(lV2024Exeption.instance);\r\n        } else {\r\n            return false;\r\n        }\r\n    }\r\n\r\n    public int hashCode() {\r\n        int result = super.hashCode();\r\n        result = 31 * result + (this.type == null ? 0 : this.type.hashCode());\r\n        result = 31 * result + (this.title == null ? 0 : this.title.hashCode());\r\n        result = 31 * result + (this.detail == null ? 0 : this.detail.hashCode());\r\n        result = 31 * result + (this.status == null ? 0 : this.status.hashCode());\r\n        result = 31 * result + (this.instance == null ? 0 : this.instance.hashCode());\r\n        return result;\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java b/src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java
+--- a/src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java	
++++ b/src/main/java/org/virosms/lectorversomicro/errors/LV2024Exeption.java	
+@@ -94,4 +94,5 @@
+         return result;
+     }
+ 
++
+ }
+Index: src/main/java/org/virosms/lectorversomicro/errors/LVException.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.virosms.lectorversomicro.errors;\r\n\r\nimport com.fasterxml.jackson.annotation.JsonIgnoreProperties;\r\nimport com.fasterxml.jackson.annotation.JsonProperty;\r\nimport jakarta.validation.Valid;\r\nimport lombok.Data;\r\nimport lombok.EqualsAndHashCode;\r\nimport org.springframework.http.HttpStatus;\r\nimport org.springframework.validation.annotation.Validated;\r\nimport org.virosms.lectorversomicro.repository.LVDomain;\r\n\r\nimport java.io.Serial;\r\nimport java.util.ArrayList;\r\nimport java.util.List;\r\nimport java.util.Map;\r\n\r\n@EqualsAndHashCode(callSuper = true)\r\n@Validated\r\n@JsonIgnoreProperties(\r\n        {\"mostSpecificCause\", \"suppressed\", \"stackTrace\", \"rootCause\"}\r\n)\r\n@Data\r\npublic class LVException extends LV2024Exeption{\r\n    @Serial\r\n    private static final long serialVersionUID = 10001L;\r\n    private String source = null;\r\n    @JsonProperty(\"parameters\")\r\n    private @Valid List<Object> parameters = null;\r\n    @JsonProperty(\"translated\")\r\n    private boolean translated = false;\r\n    @JsonProperty(\"errors\")\r\n    private @Valid List<LVFieldError> errors = null;\r\n    @JsonProperty(\"additionalInformation\")\r\n    private @Valid Map<String, Object> additionalInformation = null;\r\n    @JsonProperty(\"stackTrace\")\r\n    private String stackTraceStr;\r\n\r\n    public static LVException of(Throwable cause) {\r\n        return new LVException(cause.getMessage(), wrapCause(cause), null);\r\n    }\r\n    public static LVException of(LeverErrorType errorType) {\r\n        return (new LVException(errorType.getDetail(), null, null)).type(errorType);\r\n    }\r\n\r\n    protected LVException(@JsonProperty(\"message\") String message, @JsonProperty(\"cause\") LVException cause, @JsonProperty(\"parameters\") List<Object> parameters) {\r\n        super(message);\r\n        Throwable lvCause = wrapCause(cause);\r\n        this.initCause(lvCause);\r\n        this.setSource(LVAppGlobalInfo.getAplicationName());\r\n        this.setDetail(message);\r\n        this.setParameters(parameters);\r\n    }\r\n\r\n    /**\r\n     * Wrap a non-LVException cause into an LVException.\r\n     * @param nonLvException the non-LVException cause\r\n     * @return the LVException\r\n     */\r\n    private static LVException wrapCause(Throwable nonLvException) {\r\n        if(nonLvException != null && !(nonLvException instanceof LVException)) {\r\n            String urlName = toHumanUrl(nonLvException.getClass());\r\n            if (nonLvException.getMessage() != null) {\r\n                urlName = urlName + \"-\" + toHumanUrl(nonLvException.getMessage());\r\n            }\r\n\r\n            LVException res = (LVException) (new LVException(nonLvException.getMessage(), wrapCause(nonLvException.getCause()), null)).detail(nonLvException.toString());\r\n            res.setStackTrace(nonLvException.getStackTrace());\r\n            res.setStatus(HttpStatus.INTERNAL_SERVER_ERROR.value());\r\n            res.setType(LVDomain.ARCHICTECTURE.getValue() + \"/\" + urlName);\r\n            return res;\r\n        }else {\r\n            return (LVException) nonLvException;\r\n        }\r\n    }\r\n\r\n    /**\r\n     * Convert a class to a URL name.\r\n     * @param c the class\r\n     * @return the URL name\r\n     */\r\n    private static String toHumanUrl(Class<?> c) {\r\n        String str = c.getCanonicalName();\r\n        str = str.replaceAll(\"\\\\.\", \"-\");\r\n        str = str.replaceAll(\"[^a-z0-9\\\\-]\", \"-$1\");\r\n        str = str.replaceAll(\"^-\", \"\");\r\n        str = str.toLowerCase();\r\n        return str;\r\n    }\r\n\r\n    /**\r\n     * Convert a string to a URL name.\r\n     * @param str the string\r\n     * @return the URL name\r\n     */\r\n    private static String toHumanUrl(String str) {\r\n        str = str.toLowerCase();\r\n        str = str.replaceAll(\"[^a-z0-9]\", \"-\");\r\n        str = str.replaceAll(\"(-)\\\\1+\", \"$1\");\r\n        return str;\r\n    }\r\n\r\n    public LVException type(LeverErrorType type) {\r\n        this.setType(type.getType());\r\n        this.setStatus(type.getStatus());\r\n        this.setDetail(type.getDetail());\r\n        return this;\r\n    }\r\n\r\n    public LVException parameter(Object parameterItem) {\r\n        if(this.parameters == null) {\r\n            this.parameters = new ArrayList<>();\r\n        }\r\n\r\n        this.parameters.add(parameterItem);\r\n        return this.clone(false);\r\n    }\r\n\r\n    public LVException clone(boolean removeCloneIfExists){\r\n        LVException outputException = this.rootClone(removeCloneIfExists);\r\n        outputException.setType(this.getType());\r\n        outputException.setStatus(this.getStatus());\r\n        outputException.setDetail(this.getDetail());\r\n        outputException.setInstance(this.getInstance());\r\n        outputException.setSource(this.getSource());\r\n        outputException.setErrors(this.getErrors());\r\n        outputException.setTitle(this.getTitle());\r\n        outputException.setTranslated(this.isTranslated());\r\n        outputException.setAdditionalInformation(this.getAdditionalInformation());\r\n        outputException.setStackTraceStr(this.getStackTraceStr());\r\n        return outputException;\r\n    }\r\n\r\n    public LVException rootClone(boolean removeCauseIfExist){\r\n        LVException causeException = null;\r\n\r\n        if (!removeCauseIfExist && this.getCause() != null) {\r\n            causeException = (LVException) this.getCause();\r\n        }\r\n\r\n        if (causeException != null) {\r\n            causeException = causeException.clone(false);\r\n        }\r\n\r\n        return new LVException(this.getMessage(), causeException, this.getParameters());\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/virosms/lectorversomicro/errors/LVException.java b/src/main/java/org/virosms/lectorversomicro/errors/LVException.java
+--- a/src/main/java/org/virosms/lectorversomicro/errors/LVException.java	
++++ b/src/main/java/org/virosms/lectorversomicro/errors/LVException.java	
+@@ -144,4 +144,5 @@
+         return new LVException(this.getMessage(), causeException, this.getParameters());
+     }
+ 
++
+ }
+Index: src/test/java/org/virosms/lectorversomicro/utils/UtilsTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/org/virosms/lectorversomicro/utils/UtilsTest.java b/src/test/java/org/virosms/lectorversomicro/utils/UtilsTest.java
+new file mode 100644
+--- /dev/null	
++++ b/src/test/java/org/virosms/lectorversomicro/utils/UtilsTest.java	
+@@ -0,0 +1,32 @@
++package org.virosms.lectorversomicro.utils;
++
++import org.junit.jupiter.api.Test;
++
++import static org.junit.jupiter.api.Assertions.*;
++
++class UtilsTest {
++
++    @Test
++    void isValidUsername_ReturnsFalse_WhenUsernameIsNull() {
++        String username = null;
++        assertFalse(Utils.isValidUsername(username));
++    }
++
++    @Test
++    void isValidUsername_ReturnsTrue_WhenUsernameIsLessThanTwentyCharacters() {
++        String username = "shortusername";
++        assertTrue(Utils.isValidUsername(username));
++    }
++
++    @Test
++    void isValidUsername_ReturnsTrue_WhenUsernameIsExactlyTwentyCharacters() {
++        String username = "usernameIs20CharsLen";
++        assertTrue(Utils.isValidUsername(username));
++    }
++
++    @Test
++    void isValidUsername_ReturnsFalse_WhenUsernameIsMoreThanTwentyCharacters() {
++        String username = "thisUsernameIsDefinitelyMoreThanTwentyCharacters";
++        assertFalse(Utils.isValidUsername(username));
++    }
++}
+\ No newline at end of file
